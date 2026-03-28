@@ -1,4 +1,4 @@
-# NAME:   MALAVIKA KR
+b# NAME:   MALAVIKA KR
 # BRANCH: Btech.Bioengineering
 # YEAR:   1st Year
-# GOAL:   I hope to learn how to apply digital tools and coding to solve complex problems in bioengineering.
+# GOAL:   My goal is to leverage computational engineering to understand and replicate complex biological phenomena.
